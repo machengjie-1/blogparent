@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../blog-common/blog-common.iml" filepath="$PROJECT_DIR$/../blog-common/blog-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog-manage/blog-manage.iml" filepath="$PROJECT_DIR$/../blog-manage/blog-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog-manage/blogmanagedao/blogmanagedao.iml" filepath="$PROJECT_DIR$/../blog-manage/blogmanagedao/blogmanagedao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog-manage/blogmanageinterface/blogmanageinterface.iml" filepath="$PROJECT_DIR$/../blog-manage/blogmanageinterface/blogmanageinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog-manage/blogmanagepojo/blogmanagepojo.iml" filepath="$PROJECT_DIR$/../blog-manage/blogmanagepojo/blogmanagepojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog-manage/blogmanageservice/blogmanageservice.iml" filepath="$PROJECT_DIR$/../blog-manage/blogmanageservice/blogmanageservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blogmanageweb/blogmanageweb.iml" filepath="$PROJECT_DIR$/../blogmanageweb/blogmanageweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogparent.iml" filepath="$PROJECT_DIR$/blogparent.iml" />
+    </modules>
+  </component>
+</project>

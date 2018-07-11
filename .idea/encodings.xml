@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../blog-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../blog-manag/blogmanagepojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../blog-manage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../blog-manage/blogmanagedao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../blog-manage/blogmanageinterface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../blog-manage/blogmanagepojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../blog-manage/blogmanageservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../blogmanageweb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+  </component>
+</project>
